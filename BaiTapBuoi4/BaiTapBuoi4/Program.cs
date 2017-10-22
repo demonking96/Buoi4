@@ -6,7 +6,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BaiTap2
+namespace BaiTap3
 {
     class Program
     {
